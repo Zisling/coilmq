@@ -339,4 +339,4 @@ class STOMP12(STOMP11):
         super(STOMP12, self).connect(frame, response)
 
 
-PROTOCOL_MAP = {'1.0': STOMP10, '1.1': STOMP11, '1.2': STOMP12}
+PROTOCOL_MAP = {'1.0': STOMP10, '1.1': STOMP11, '1.2': STOMP11}
