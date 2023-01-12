@@ -250,7 +250,7 @@ class STOMP10(STOMP):
 
 class STOMP11(STOMP10):
 
-    SUPPORTED_VERSIONS = {'1.0', '1.1'}
+    SUPPORTED_VERSIONS = {'1.0', '1.1', '1.2'}
 
     def __init__(self, engine, send_heartbeat_interval=100, receive_heartbeat_interval=100, *args, **kwargs):
         super(STOMP11, self).__init__(engine)
