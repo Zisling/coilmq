@@ -18,7 +18,7 @@ The perferable way to install the CoilMQ is via github, as it will contain the m
     
 Run CoilMQ
 
-    $ coilmq -b 0.0.0.0 -p 61613
+    $ coilmq -b 0.0.0.0 -p 7777
 
 Jump over to [Getting Started Guide](https://github.com/hozn/coilmq/wiki/Getting-Started) for the slightly longer version.
 
