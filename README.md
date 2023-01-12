@@ -13,11 +13,8 @@ Now!
 
 The perferable way to install the CoilMQ is via github, as it will contain the most recent code
  
-    $ pip install git+https://github.com/hozn/coilmq.git
+    $ pip install git+https://github.com/Zisling/coilmq.git
     
-But you can also intall it from PyPI
-
-    $ pip install CoilMQ
     
 Run CoilMQ
 
